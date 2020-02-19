@@ -1,3 +1,7 @@
+/*
+C++ for programers from Udacity
+*/
+
 #include <iostream>
 
 using namespace std;
