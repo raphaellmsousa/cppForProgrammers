@@ -26,8 +26,8 @@ then look in the directory where the standard libraries are stored”. Ex.:
 int main()
 {
     //"cout" is the function used in C++ to print information
-    std::cout<<"Hello world, I am ready for C++ \n";
-    std::cout<<"This is a test! \n";
+    std::cout << "Hello world, I am ready for C++ \n";
+    std::cout << "This is a test! \n";
 
     //It is possible to use printf, but it is necessary include the stdio.h library
     printf("We can use \"printf\" for this task! \n");
