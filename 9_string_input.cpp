@@ -26,6 +26,6 @@ int main()
     string userName; 
     cout << "Tell me your nickname?: ";
     getline(std::cin, userName);
-    cout << "Hello "<<userName<<"\n";
+    cout << "Hello " << userName << "\n";
     return 0;
 }
