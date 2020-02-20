@@ -13,7 +13,7 @@ int main()
     int age = 0;
     string name = " ";
     //print a message to the user
-    cout<<"What year is your favorite? ";
+    cout << "What year is your favorite? ";
     
     //get the user response and assign it to the variable year
     cin >> year;
